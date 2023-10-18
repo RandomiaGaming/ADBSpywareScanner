@@ -4,7 +4,6 @@ D:\Programming Projects\ADBSpywareScanner\bin\Debug\ABDSpywareScanner.pdb
 D:\Programming Projects\ADBSpywareScanner\bin\Debug\Newtonsoft.Json.dll
 D:\Programming Projects\ADBSpywareScanner\bin\Debug\Newtonsoft.Json.xml
 D:\Programming Projects\ADBSpywareScanner\obj\Debug\ABDSpywareScanner.csproj.AssemblyReference.cache
-D:\Programming Projects\ADBSpywareScanner\obj\Debug\ABDSpywareScanner.csproj.SuggestedBindingRedirects.cache
 D:\Programming Projects\ADBSpywareScanner\obj\Debug\ABDSpywareScanner.csproj.CoreCompileInputs.cache
 D:\Programming Projects\ADBSpywareScanner\obj\Debug\ABDSpywareScanner.csproj.CopyComplete
 D:\Programming Projects\ADBSpywareScanner\obj\Debug\ABDSpywareScanner.exe

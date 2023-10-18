@@ -15,7 +15,7 @@ namespace ABDSpywareScanner
 			"5200379633052405703", //Samsung Electronics Co., Ltd.
 			"8677746436809616031", //OnePlus Ltd.
 		};
-        public static readonly string[] ADBDirectoryPaths = new string[] { "D:\\Utilities\\Android Platform Tools", "C:\\Users\\RandomiaGaming\\Desktop\\Android Platform Tools" };
+        public static readonly string[] ADBDirectoryPaths = new string[] { "D:\\Utilities\\AndroidPlatformTools", "C:\\Users\\RandomiaGaming\\Desktop\\AndroidPlatformTools" };
         public static string ADBPath { get; private set; } = LocateADB();
         public static int Main()
         {
